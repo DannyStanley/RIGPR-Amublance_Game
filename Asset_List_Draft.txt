@@ -1,0 +1,30 @@
+
+
+Ambulace Gettaway Game:
+1 unit = 1cm / z axis UP / USE MATERIAL IDS / DONT OVERLAY UVS
+
+
+Assets:
+
+Large Building A / 250 quads Max
+Large Building B / 250 quads Max
+Large Building C / 250 quads Max
+
+Road Section Plain / 40 quads Max
+Road Section Side / 40 quads Max
+Pavement Section / 40 quads Max
+
+90 Degree 3 Lane Road & Pavement Section (Left) / 160 quads Max
+90 Degree 3 Lane Road & Pavement Section (Right) / 160 quads Max
+
+Police Vehicle / 160 quads Max
+
+Road Spikes / 80 quads Max
+
+Ramp / 16 quads Max
+
+Postbox / 28 quads Max
+
+Phone Box (American Style) / 50 quads Max
+
+Pick Up Item (TBC) / 30 quads Max
