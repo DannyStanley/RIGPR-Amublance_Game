@@ -2468,3 +2468,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.17-18.29.39:922][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D_Models/Skyscraper2_BP]
 [2020.02.17-18.29.39:938][277]LogSavePackage: Moving '../../../../../../RIGPR GITHUB/RIGPR-Amublance_Game/RIGPR-Ambulance/HeartBeat/Saved/Skyscraper2_BP_Auto194F9763C4F260B2225E11094A632D71A.tmp' to '../../../../../../RIGPR GITHUB/RIGPR-Amublance_Game/RIGPR-Ambulance/HeartBeat/Saved/Autosaves/Game/3D_Models/Skyscraper2_BP_Auto1.uasset'
 [2020.02.17-18.29.39:939][277]LogFileHelpers: Auto-saving content packages took 0.197
+[2020.02.17-20.05.24:660][476]LogAnimation: Warning: SkeletalMesh Skyscrapper_1 has no skeleton. This needs to fixed before an animation can be set
+[2020.02.17-20.05.24:775][479]LogAnimation: Warning: SkeletalMesh Mailbox has no skeleton. This needs to fixed before an animation can be set
+[2020.02.17-20.05.24:919][485]LogAnimation: Warning: SkeletalMesh Skyscrapper_2 has no skeleton. This needs to fixed before an animation can be set
+[2020.02.17-20.05.24:989][489]LogAnimation: Warning: SkeletalMesh Skyscrapper_1 has no skeleton. This needs to fixed before an animation can be set
+[2020.02.17-20.05.25:056][492]LogAnimation: Warning: SkeletalMesh Mailbox has no skeleton. This needs to fixed before an animation can be set
+[2020.02.17-20.05.25:157][498]LogAnimation: Warning: SkeletalMesh Skyscrapper_2 has no skeleton. This needs to fixed before an animation can be set
